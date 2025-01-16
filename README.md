@@ -1,4 +1,4 @@
-# retroagenda
+# retro-agenda-europe
 Agenda of European retrogaming/retrocomputing focused or related events
 
 Next known events - feel free submit pull requests!
