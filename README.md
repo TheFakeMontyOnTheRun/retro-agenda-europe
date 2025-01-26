@@ -5,10 +5,8 @@ Next known events - feel free submit pull requests!
 
 | Event                                   | Date                    | Location          | reference                       |
 |-----------------------------------------|-------------------------|-------------------|---------------------------------|
-| Momentum                                | 2025-01-25              | Almada, Portugal  | TBD                             |
-| 63rd Barcelona MSX users meeting        | 2025-01-25              | Barcelona, Spain  | https://aamsx.com/              |
 | FOSDEM                                  | 2025-02-01 - 2023-02-02 | Brussels, Belgium | https://fosdem.org/2025/        |
-| Tomar Game Festival                     | 2025-03-02 - 2023-03-04 | Tomar, Portugal      | https://www.gamescola.pt/tgf    |
+| Tomar Game Festival                     | 2025-03-02 - 2023-03-04 | Tomar, Portugal   | https://www.gamescola.pt/tgf    |
 | RetroParla                              | 2025-03-15 - 2023-03-16 | Parla, Spain      | http://retroparla.com/          |
 | RetroMañia                              | 2025-04-07 - 2023-04-11 | Zaragoza, Spain   | https://www.retroaccion.org/    |
 | RetroPixel Malaga                       | 2025-04-07 - 2023-04-11 | Malaga, Spain     | https://www.retropixel.es/      |
